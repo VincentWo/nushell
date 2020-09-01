@@ -3063,7 +3063,6 @@ dependencies = [
  "pin-utils",
  "pretty-hex",
  "pretty_env_logger",
- "ptree",
  "query_interface",
  "quick-xml 0.18.1",
  "quickcheck",

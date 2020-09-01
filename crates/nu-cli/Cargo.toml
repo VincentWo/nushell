@@ -63,7 +63,6 @@ parking_lot = "0.11.0"
 pin-utils = "0.1.0"
 pretty-hex = "0.1.1"
 pretty_env_logger = "0.4.0"
-ptree = {version = "0.2", optional = true}
 query_interface = "0.3.5"
 rand = "0.7"
 regex = "1"
